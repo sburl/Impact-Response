@@ -197,6 +197,18 @@ to surround
   ask other people-here with [ vaccinated? = true ][
       get-vaccinated ]
 end
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
