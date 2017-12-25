@@ -1,4 +1,4 @@
-# Modeling Disease
+# Impact/Response
 
 Built in NetLogo for John Miller's Modeling Complex Systems class at Carnegie Mellon.
 
